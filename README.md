@@ -54,7 +54,7 @@ projet-education/
 │   └── Fonkou_Symphor_1_notebook_130325.ipynb  # Notebook principal
 │
 ├── presentation/
-│   └── education_analysis.ipynb   # Presentation ppt
+│   └── Fonkou_Symphor_2_présentation_130325.pptx.pptx   # Presentation pptx
 │
 └── README.md
 ```
