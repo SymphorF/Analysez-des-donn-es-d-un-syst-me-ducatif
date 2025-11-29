@@ -45,7 +45,7 @@ Période étudiée : 2008 – 2012
 📁 Structure du projet
 projet-education/
 │
-├── data/
+├── data/ A déziper avant d'exécuter le notebook
 │   ├── EdStatsCountry.csv
 │   ├── EdStatsData.csv
 │   └── EdStatsSeries.csv
