@@ -40,6 +40,8 @@ Période étudiée : 2008 – 2012
 (la plus complète en termes de taux de remplissage)
 
 🛠️ Méthodologie
+
+```
 📁 Structure du projet
 projet-education/
 │
@@ -49,10 +51,13 @@ projet-education/
 │   └── EdStatsSeries.csv
 │
 ├── analysis/
-│   └── education_analysis.ipynb   # Notebook principal
+│   └── Fonkou_Symphor_1_notebook_130325.ipynb  # Notebook principal
+│
+├── presentation/
+│   └── education_analysis.ipynb   # Presentation ppt
 │
 └── README.md
-
+```
 1. ✔️ Analyse Générale
 
 Importation des 5 fichiers sources.
